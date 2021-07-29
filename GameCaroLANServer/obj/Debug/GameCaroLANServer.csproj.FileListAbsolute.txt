@@ -1,0 +1,10 @@
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\bin\Debug\GameCaroLANServer.exe.config
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\bin\Debug\GameCaroLANServer.exe
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\bin\Debug\GameCaroLANServer.pdb
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.csprojAssemblyReference.cache
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.Form1.resources
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.Properties.Resources.resources
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.csproj.GenerateResource.cache
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.csproj.CoreCompileInputs.cache
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.exe
+C:\Users\huyen\source\repos\GameCaroLANServer\GameCaroLANServer\obj\Debug\GameCaroLANServer.pdb
